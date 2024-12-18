@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="osu! logo" src="assets/564398.png">
+  <img width="500" alt="logo" src="564398.png">
 </p>
 
 # Разработка базы данных для аналитического веб-сервиса исследования рынка акций
